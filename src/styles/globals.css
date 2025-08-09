@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root{
+  --brand:#E21E2B;
+  --brand-600:#c81a26;
+  --bg:#fff9f7;
+  --fg:#121212;
+  --muted:#6b7280;
+  --card:#ffffff;
+}
+body{background:var(--bg);color:var(--fg)}
+.container{max-width:1200px;margin:0 auto;padding:0 1rem}

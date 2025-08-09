@@ -1,2 +1,3 @@
-# Aussitôt Bon — Next.js App (Starter)
-Lisez ce fichier puis suivez les étapes Vercel : import du repo → build → déploiement.
+# Aussitôt Bon — Next.js App (complet)
+
+Démarrage: npm i && npm run dev

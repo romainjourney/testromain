@@ -1,0 +1,1 @@
+import Navbar from '@/components/Navbar'; import Footer from '@/components/Footer'; export default function Panier(){ return (<div><Navbar/><section className='container py-10'><h1 className='text-2xl font-bold'>Panier</h1><p className='text-[var(--muted)] mt-2'>À connecter au store + pricing réel.</p></section><Footer/></div>);}
